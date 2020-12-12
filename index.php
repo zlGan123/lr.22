@@ -4,6 +4,7 @@ include 'includes/overall/overall_header.php';
 ?>
 <h1>Home</h1>
 <p>Just a template.</p>
+<p>Testing Git Hub</p>
 
 <?php
 if (isset($_SESSION['user_id'])) {
